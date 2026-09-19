@@ -10,4 +10,4 @@ I work around:
 - Applied Machine Learning
 - MLOps & Deployment
 
-Contact: [LinkedIn](https://www.linkedin.com/in/ahir-barman-maji/) or [email](mailto:ahir.barmanmaji2004@gmail.com)
+Contact: [LinkedIn](https://www.linkedin.com/in/ahir-barman-maji/) or [Email](mailto:ahir.barmanmaji2004@gmail.com)
