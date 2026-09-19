@@ -1,13 +1,16 @@
 # Hey there, I am Ahir
 
-Founding AI Engineer @ FinArth.AI
+Founding AI Engineer @ [Finarth](https://finarth.ai)
 
-Previously -> AI/ML Research Intern @ IIT Guwahati
+Previously -> ML Research Intern @ IIT Guwahati
 
-I build AI systems, developer tools, and open-source software.
+I work around:
+- AI Agents & Automation
+- Retrieval Systems
+- Developer Tooling
+- Applied Machine Learning
 
-Interested in LLMs, agentic systems, RAG, machine learning, and infrastructure.
+Open Source:
+- Exploring agent runtimes, local LLM tooling, and AI infrastructure
 
-Currently experimenting with things around AI engineering and developer tooling.
-
-Contact: [LinkedIn](https://www.linkedin.com/in/ahir-barman-maji/) or email: ahir.barmanmaji2004@email.com
+Contact: [LinkedIn](https://www.linkedin.com/in/ahir-barman-maji/) or email: ahir.barmanmaji2004@gmail.com
