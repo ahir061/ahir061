@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hey there, I am Ahir
 
-<!--
-**ahir061/ahir061** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founding AI Engineer @ FinArth.AI
 
-Here are some ideas to get you started:
+Previously -> AI/ML Research Intern @ IIT Guwahati
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build AI systems, developer tools, and open-source software.
+
+Interested in LLMs, agentic systems, RAG, machine learning, and infrastructure.
+
+Currently experimenting with things around AI engineering and developer tooling.
+
+Contact: [LinkedIn](https://www.linkedin.com/in/ahir-barman-maji/) or email: ahir.barmanmaji2004@email.com
