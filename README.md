@@ -12,4 +12,3 @@ I work around:
 * MLOps & Deployment
 
 Contact: [LinkedIn](https://www.linkedin.com/in/ahir-barman-maji/) or [Email](mailto:ahir.barmanmaji2004@gmail.com)
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&color=00f5d4&section=footer" />
